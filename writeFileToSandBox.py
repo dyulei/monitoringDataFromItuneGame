@@ -30,7 +30,10 @@ print URL
 
 html_URL = urllib2.urlopen(URL)
 hjson1 = json.loads(html_URL.read())
+x = 0
 print hjson1['results'][0]['trackName']
+
+
 #writeJSONFile(html)
 
 

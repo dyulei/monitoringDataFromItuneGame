@@ -1,0 +1,201 @@
+The Paid Game Rank, int the date : 2014-08-01
+  1 : 剑圣传奇
+  2 : Plague Inc. (瘟疫公司)
+  3 : 现代战争5: 眩晕风暴
+  4 : 地狱边境 (LIMBO)
+  5 : 英雄萌盟
+  6 : 奇幻射击
+  7 : 皇家骑士团（ ）最强互动策略战争手游
+  8 : 纪念碑谷
+  9 : 战神之怒
+ 10 : Minecraft  Pocket Edition
+ 11 : 宝石迷阵
+ 12 : 孤胆车神：维加斯
+ 13 : Cytus
+ 14 : NBA 2K14
+ 15 : Red Ball 4
+ 16 : 仙剑奇侠传5 - 剑傲丹枫
+ 17 : 植物大战僵尸
+ 18 : THE KING OF FIGHTERS i 2012
+ 19 : 狂斩三国
+ 20 : 能量战士
+ 21 : 口袋女友
+ 22 : 天兵公园 恶作剧大战
+ 23 : 仙剑奇侠传1 DOS怀旧版
+ 24 : Angry Birds
+ 25 : 单机三国志
+ 26 : 暴力教学之我要踢球
+ 27 : PopStar!消灭星星
+ 28 : 斯嘟比
+ 29 : 热血足球高校篇
+ 30 : 刺客信条：海盗
+ 31 : Birzzle Pandora
+ 32 : 一骑当千OL-三国群英手游版
+ 33 : Cut the Rope (割绳子)
+ 34 : FC 马路英雄（公路赛车 火箭车）
+ 35 : 俄罗斯方块（掌上机经典）
+ 36 : Fruit Ninja
+ 37 : THE KING OF FIGHTERS '97
+ 38 : 行尸走肉：钢铁死神OL
+ 39 : Kingdom Rush Frontiers
+ 40 : F18 Carrier Landing II Pro
+ 41 : Kingdom Rush
+ 42 : Temple Run:魔境仙踪
+ 43 : 暴力街区
+ 44 : 大富翁 4 Fun
+ 45 : 鳄鱼小顽皮爱洗澡
+ 46 : Plants vs. Zombies
+ 47 : Micromon
+ 48 : 西游释厄传
+ 49 : Infinite Flight - 飞行模拟器
+ 50 : 喜羊羊小顽皮
+ 51 : Infinity Blade III
+ 52 : 超凡蜘蛛侠2
+ 53 : Doodle God (涂鸦上帝)
+ 54 : 僵尸别动队
+ 55 : Angry Birds Seasons
+ 56 : Bio Inc. - Biomedical Plague
+ 57 : THE KING OF FIGHTERS-i 002
+ 58 : 炎龙骑士团2 怀旧版
+ 59 : Anomaly 2
+ 60 : Bridge Constructor
+ 61 : 混沌与秩序 Online
+ 62 : AirFighters Pro Rortos
+ 63 : Dinosaur Safari Pro
+ 64 : Virtua Tennis Challenge
+ 65 : 乐动DJMAX
+ 66 : Threes!
+ 67 : Bad Piggies
+ 68 : 狂野飙车7：极速热力
+ 69 : METAL SLUG X
+ 70 : The Lost City 失落之城
+ 71 : Junk Jack X
+ 72 : MONSTER HUNTER FREEDOM UNITE for iOS
+ 73 : King of Opera - Multiplayer Party Game!
+ 74 : 里约热内卢：圣徒之城
+ 75 : MTN
+ 76 : 海上力量：无畏 for iPhone
+ 77 : Fieldrunners 2
+ 78 : Dream Revenant
+ 79 : 恋舞OL 尊享版
+ 80 : 萌忍Q传
+ 81 : 现代战争4：决战时刻
+ 82 : 三国艳义--豪华动漫卡牌游戏
+ 83 : Angry Birds Space
+ 84 : 鸭嘴兽泰瑞在哪里？
+ 85 : THE RHYTHM OF FIGHTERS
+ 86 : Angry Birds Star Wars
+ 87 : 天天爱唱歌
+ 88 : 蒙特祖玛的宝藏 3 (The Treasures of Montezuma 3)
+ 89 : Ballance Resurrection
+ 90 : 蓝龙岛
+ 91 : 天天撞神将
+ 92 : 魔塔
+ 93 : Worms 3
+ 94 : Scribblenauts Remix
+ 95 : Need for Speed Most Wanted
+ 96 : Duet Game
+ 97 : LIBERATION MAIDEN
+ 98 : 爱填字:最精美中文填字游戏
+ 99 : Construction Simulator 2014
+100 : Delicious - Emily's Taste of Fame
+101 : The Island: Castaway (Full)
+102 : Bounden
+103 : 五星宏辉  - 最真实的牌机
+104 : Cross Court Tennis 2
+105 : 80 Days
+106 : 乐动达人
+107 : 怪物弹珠怪物冲击
+108 : 闪电战机
+109 : Buddyman: Kick (by Kick the Buddy)
+110 : Devil's Attorney
+111 : Fruit Ninja: Puss in Boots
+112 : 文明 变革
+113 : 极品飞车变速
+114 : Tengami
+115 : Fieldrunners
+116 : BADLAND
+117 : Pig Shot
+118 : 觉醒吧！海贼
+119 : The Phantom PI Mission Apparition
+120 : 轩辕剑参外传 天之痕
+121 : Mirror's Edge
+122 : Blueprint 3D
+123 : Eve of Impact
+124 : SAMURAI SHODOWN II
+125 : 孤胆车神：雄霸迈阿密
+126 : Pudding Monsters (布丁怪兽)
+127 : Shadow Blade
+128 : 画个火柴人
+129 : Hunter & Monster
+130 : 性爱游戏
+131 : 欢乐大富翁2
+132 : 雷曼：嘉年华
+133 : Bridge Constructor 中世纪
+134 : Tiny Wings
+135 : Toy Defense 2
+136 : 掌上三国无双
+137 : 功夫西游--全民街机格斗手游
+138 : Sine Mora
+139 : STREET FIGHTER IV
+140 : Dokuro
+141 : SimCity Deluxe
+142 : NyxQuest
+143 : 微乐团-Micro4U 吉他 钢琴 架子鼓 多合一
+144 : Teenage Mutant Ninja Turtles
+145 : Daddy Was A Thief
+146 : Doodle Jump
+147 : Battle Supremacy
+148 : Oceanhorn 
+149 : 皇后成长计划2
+150 : 街头霸王 X 铁拳 手机版　
+151 : Perfect Cell
+152 : Infinity Field
+153 : 轩辕剑贰 DOS怀旧版
+154 : 松饼骑士
+155 : Special Enquiry Detail: 新娘连环被杀案 (Full)
+156 : 植物变变变
+157 : 天朝教育委员会
+158 : Blek
+159 : Joe Danger Infinity
+160 : 三剑舞(Third Blade)
+161 : 魔力小孩火车
+162 : Clash of the Olympians
+163 : Pacific Rim
+164 : 航空公司大亨 3
+165 : Nightmares from the Deep: 被诅咒的心,典藏版 (Full)
+166 : 情趣大转盘
+167 : Stickman Basketball
+168 : RollerCoaster Tycoon 4 Mobile
+169 : Riptide GP2
+170 : Jelly Defense
+171 : 极品飞车:热血追踪
+172 : Temple Run: 勇敢传说
+173 : N.O.V.A. 3 - 近地联盟先遣队
+174 : MONOPOLY
+175 : Line Runner
+176 : Superbrothers: Sword & Sworcery EP
+177 : Star Command
+178 : Machine World
+179 : MONOPOLY Millionaire
+180 : Pou
+181 : 大侠去哪儿OL
+182 : 财务策略游戏：Capital City
+183 : Doodle Devil
+184 : KiiiZ : Tiny Music Robots
+185 : Bubble Bust!
+186 : Starfront - Collision
+187 : Death Rally
+188 : Feed Me Oil
+189 : Strata
+190 : God of Light
+191 : Jenga
+192 : 武士：勇者之路
+193 : LEGO Harry Potter: Years 1-4
+194 : 安城密室 3 (Antrim Escape 3 中文版)
+195 : Enigmo
+196 : Lili
+197 : LEGO Harry Potter: Years 5-7
+198 : Dungeon Defenders: Second Wave
+199 : 极限挑战
+200 : 高尔夫纸牌 - 大鱼出品 (Full)

@@ -1,0 +1,201 @@
+The Paid Game Rank, int the date : 2014-08-08
+  1 : Plague Inc. (瘟疫公司)
+  2 : 功夫西游
+  3 : 地狱边境 (LIMBO)
+  4 : 剑圣传奇
+  5 : 现代战争5: 眩晕风暴
+  6 : 奇幻射击
+  7 : Minecraft  Pocket Edition
+  8 : Micromon
+  9 : 战神之怒
+ 10 : 纪念碑谷
+ 11 : 宝石迷阵
+ 12 : Manuganu 2
+ 13 : NBA 2K14
+ 14 : 仙剑奇侠传1 DOS怀旧版
+ 15 : 孤胆车神：维加斯
+ 16 : Cytus
+ 17 : THE KING OF FIGHTERS '97
+ 18 : 仙剑奇侠传5 - 剑傲丹枫
+ 19 : 狂斩三国
+ 20 : THE KING OF FIGHTERS i 2012
+ 21 : 皇家骑士团（ ）最强互动策略战争手游
+ 22 : 植物大战僵尸
+ 23 : 口袋女友
+ 24 : Duet Game
+ 25 : PopStar!消灭星星
+ 26 : 一骑当千OL-三国群英手游版
+ 27 : Kingdom Rush
+ 28 : 炎龙骑士团2 怀旧版
+ 29 : 单机三国志
+ 30 : 蓝龙岛
+ 31 : FC 马路英雄（公路赛车 火箭车）
+ 32 : Riptide GP2
+ 33 : Godfire
+ 34 : Doodle Jump
+ 35 : Deus Ex: The Fall
+ 36 : Doodle God (涂鸦上帝)
+ 37 : Battle Supremacy
+ 38 : Kingdom Rush Frontiers
+ 39 : MTN
+ 40 : Plants vs. Zombies
+ 41 : Dokuro
+ 42 : 俄罗斯方块（掌上机经典）
+ 43 : Birzzle Pandora
+ 44 : 80 Days
+ 45 : Murl the Squirrel
+ 46 : The Room Two
+ 47 : The Lost City 失落之城
+ 48 : THE KING OF FIGHTERS-i 002
+ 49 : 仙魔决-2014全民修仙,天天PK,畅快双修,神魔对战刀塔美女,武侠世界唐门王者,全新精品仙侠RPG网游
+ 50 : Ninja Village
+ 51 : Battleheart Legacy
+ 52 : 刺客信条：海盗
+ 53 : 轩辕剑参外传 天之痕
+ 54 : Temple Run:魔境仙踪
+ 55 : Threes!
+ 56 : Real Steel
+ 57 : 斯嘟比
+ 58 : 金皇冠扑克机
+ 59 : 爱填字:最精美中文填字游戏
+ 60 : Cut the Rope (割绳子)
+ 61 : Angry Birds
+ 62 : Soccer Physics
+ 63 : Sky Gamblers: Cold War
+ 64 : 鳄鱼小顽皮爱洗澡
+ 65 : Infinite Flight - 飞行模拟器
+ 66 : 超凡蜘蛛侠2
+ 67 : 现代战争4：决战时刻
+ 68 : Oceanhorn 
+ 69 : 暴力街区
+ 70 : Tengami
+ 71 : Papa's Freezeria To Go!
+ 72 : 街头霸王 X 铁拳 手机版　
+ 73 : 文明 变革
+ 74 : 滑雪大冒险增强版
+ 75 : 行尸走肉：钢铁死神OL
+ 76 : 热血足球高校篇
+ 77 : THE RHYTHM OF FIGHTERS
+ 78 : Fruit Ninja
+ 79 : Infinity Blade III
+ 80 : 航空公司大亨 3
+ 81 : Bad Piggies
+ 82 : 乐高蝙蝠侠：DC超级英雄
+ 83 : 恋舞OL 尊享版
+ 84 : 米奇小顽皮?
+ 85 : AirFighters Pro Rortos
+ 86 : F18 Carrier Landing II Pro
+ 87 : Cover Orange
+ 88 : 欧陆战争4: 拿破仑
+ 89 : Jelly Defense
+ 90 : 武士：勇者之路
+ 91 : Amateur Surgeon 2
+ 92 : Athletics: 冬季运动 (Full Version)
+ 93 : Bongo Touch 3
+ 94 : Shadow Blade
+ 95 : Daddy Was A Thief
+ 96 : Virtua Tennis Challenge
+ 97 : Traps n' Gemstones
+ 98 : 三国艳义--豪华动漫卡牌游戏
+ 99 : 极品飞车变速
+100 : Bridge Constructor
+101 : Samurai II: Vengeance
+102 : 狂野之血
+103 : 大富翁 4 Fun
+104 : Weaphones: Firearms Simulator Volume 2
+105 : 涂鸦跳跃
+106 : 俄罗斯方块
+107 : Bio Inc. - Biomedical Plague
+108 : 僵尸别动队
+109 : Cooking Dash Deluxe
+110 : LEGO Friends
+111 : Clash of the Olympians
+112 : Mosaika
+113 : Zombieville USA 2
+114 : Nihilumbra
+115 : 鬼泣4 refrain
+116 : Angry Birds Seasons
+117 : 天天撞神将
+118 : Infinity Blade II
+119 : F1 2011 GAME
+120 : 松饼骑士
+121 : 大战僵尸鸟 - Shoot The Zombirds
+122 : Ready Steady Bang
+123 : Survivalcraft
+124 : Jo's Dream: Coffee Shop
+125 : Stone Age: The Board Game
+126 : 狂野重卡
+127 : 时间混乱
+128 : Angry Birds Space
+129 : Celleste
+130 : 天黑请闭眼OL
+131 : 燃烧的蔬菜
+132 : 雷曼：嘉年华
+133 : LEGO Marvel Super Heroes：宇宙危机
+134 : 辉煌足球
+135 : 萌忍Q传
+136 : 师兄快跑 - 史上最难跑酷游戏
+137 : 城堡突
+138 : Minecraft Skin Studio - Minecraft（我的世界）官方人物设计制作工具！
+139 : The Sims 3 Ambitions
+140 : Hotel Dash Deluxe
+141 : MMA by EA SPORTS
+142 : Cover Orange 2: 伟大旅程
+143 : Year Walk
+144 : Game Dev Story
+145 : Airport Mania 2: Wild Trips
+146 : SAMURAI SHODOWN II
+147 : Block Fortress: War
+148 : RollerCoaster Tycoon 4 Mobile
+149 : 黑暗骑士崛起
+150 : Need for Speed Most Wanted
+151 : 终极塔防 Tower Defense
+152 : Blueprint 3D
+153 : FINAL FANTASY VI
+154 : Temple Run: 勇敢传说
+155 : NinJump Deluxe
+156 : Stylish Sprint
+157 : The Sims Medieval
+158 : Manuganu
+159 : PokeBoy
+160 : O2Jam S by MOMO
+161 : Infinity Blade
+162 : Bridge Constructor 中世纪
+163 : 三国群殴传-群雄逐鹿
+164 : STREET FIGHTER IV
+165 : 猫射手
+166 : 蒙特祖玛的宝藏 3 (The Treasures of Montezuma 3)
+167 : Bongo Touch
+168 : 电影《丁丁历险记：独角兽号的秘密》游戏
+169 : Resident Evil 4: PLATINUM
+170 : 索尼克大跳跃　SONIC JUMP
+171 : Death Rally
+172 : SushiGoRound!
+173 : Riptide GP
+174 : World of Goo
+175 : Shark Dash
+176 : Groove Coaster
+177 : World of Goo HD
+178 : Ridiculous Fishing - A Tale of Redemption
+179 : Machinarium Pocket Edition
+180 : About Love, Hate and the other ones
+181 : Le Vamp
+182 : International Snooker 2012
+183 : Cafeteria Nipponica
+184 : Enigmo 2
+185 : 傻瓜救笨蛋
+186 : Vector for iPhone
+187 : Snow Moto Racing
+188 : Super Badminton
+189 : Ticket to Ride Pocket
+190 : Bounden
+191 : 鼓之反击(太鼓篇)
+192 : Bees vs. Ants
+193 : Stanley博士的家2（6块石头）
+194 : A Dark Room
+195 : 武士誓死守卫战
+196 : Moon Swing
+197 : 傻瓜救笨蛋圣诞特别版
+198 : Sine Mora
+199 : 虫虫特工队
+200 : Tower of Fortune 2

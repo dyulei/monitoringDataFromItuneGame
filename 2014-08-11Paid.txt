@@ -1,0 +1,201 @@
+The Paid Game Rank, int the date : 2014-08-11
+  1 : Plague Inc. (瘟疫公司)
+  2 : 地狱边境 (LIMBO)
+  3 : 功夫西游
+  4 : Fruit Ninja
+  5 : 奇幻射击
+  6 : Minecraft  Pocket Edition
+  7 : 现代战争5: 眩晕风暴
+  8 : 纪念碑谷
+  9 : Deemo
+ 10 : 战神之怒
+ 11 : Micromon
+ 12 : 植物大战僵尸
+ 13 : 仙剑奇侠传1 DOS怀旧版
+ 14 : NBA 2K14
+ 15 : PopStar!消灭星星
+ 16 : 宝石迷阵
+ 17 : 孤胆车神：维加斯
+ 18 : Shadow Blade
+ 19 : Oceanhorn 
+ 20 : 口袋女友
+ 21 : 狂斩三国
+ 22 : 仙剑奇侠传5 - 剑傲丹枫
+ 23 : THE KING OF FIGHTERS i 2012
+ 24 : 蓝龙岛
+ 25 : Cytus
+ 26 : Kingdom Rush Frontiers
+ 27 : Kingdom Rush
+ 28 : 俄罗斯方块（掌上机经典）
+ 29 : 航空公司大亨 3
+ 30 : Infinity Blade III
+ 31 : Chimpact 2 Family Tree
+ 32 : Duet Game
+ 33 : Birzzle Pandora
+ 34 : Doodle Jump
+ 35 : THE KING OF FIGHTERS '97
+ 36 : 皇家骑士团（ ）最强互动策略战争手游
+ 37 : 炎龙骑士团2 怀旧版
+ 38 : Angry Birds
+ 39 : Doodle God (涂鸦上帝)
+ 40 : 一骑当千OL-三国群英手游版
+ 41 : 轩辕剑参外传 天之痕
+ 42 : Plants vs. Zombies
+ 43 : NinJump Deluxe
+ 44 : MTN
+ 45 : 大富翁 4 Fun
+ 46 : 极品飞车变速
+ 47 : 欧陆战争4: 拿破仑
+ 48 : The Lost City 失落之城
+ 49 : 涂鸦跳跃
+ 50 : 超凡蜘蛛侠2
+ 51 : 雷曼：嘉年华
+ 52 : Mosaika
+ 53 : Infinite Flight - 飞行模拟器
+ 54 : Tengami
+ 55 : Cafeteria Nipponica
+ 56 : FC 马路英雄（公路赛车 火箭车）
+ 57 : 狂野飙车7：极速热力
+ 58 : 米奇小顽皮?
+ 59 : 街头霸王 X 铁拳 手机版　
+ 60 : Rules!
+ 61 : 里约热内卢：圣徒之城
+ 62 : Pah!
+ 63 : Bad Piggies
+ 64 : Real Steel
+ 65 : Manuganu 2
+ 66 : 悟空蹦蹦蹦 (Escape the Ape)
+ 67 : Dokuro
+ 68 : Sprinkle Islands（超级救火队 2）
+ 69 : The Sims 3
+ 70 : Threes!
+ 71 : 时间混乱
+ 72 : 猫射手
+ 73 : Fieldrunners 2
+ 74 : 死亡空间
+ 75 : One Tap RPG - Pachinko-like Dungeon Crawler
+ 76 : 消灭星星2
+ 77 : 菜鸟学开车: 模拟驾校(好玩的开车游戏,学车首选,可练习停车入位,倒库移库)
+ 78 : Weaphones: Firearms Simulator Volume 2
+ 79 : 滑雪大冒险增强版
+ 80 : THE KING OF FIGHTERS-i 002
+ 81 : 雷曼：丛林探险
+ 82 : Swordigo
+ 83 : 刺客信条：海盗
+ 84 : Angry Birds Seasons
+ 85 : Blueprint 3D
+ 86 : 符文大师
+ 87 : PopStar传奇 专业版
+ 88 : Need for Speed Most Wanted
+ 89 : 喜羊羊小顽皮
+ 90 : 狂野飙车6- 火线追击
+ 91 : The Room Two
+ 92 : THE RHYTHM OF FIGHTERS
+ 93 : 蒙特祖玛的宝藏 3 (The Treasures of Montezuma 3)
+ 94 : Daddy Was A Thief
+ 95 : 热血足球高校篇
+ 96 : iSlash
+ 97 : Mahjong Secrets (Full)
+ 98 : Space Colors
+ 99 : 鳄鱼小顽皮爱洗澡
+100 : Machinarium Pocket Edition
+101 : Peggle Classic
+102 : Crazy Taxi  疯狂出租车
+103 : Harbor Master
+104 : Tentacle Wars
+105 : Mr. Runner 2: The Masks
+106 : 萝莉学园
+107 : 单机三国志
+108 : Angry Birds Space
+109 : Virtua Tennis Challenge
+110 : 仙魔决-2014全新精品仙侠RPG网游
+111 : Construction Simulator 2014
+112 : 极品飞车:热血追踪
+113 : Temple Run:魔境仙踪
+114 : A Dark Room
+115 : Deus Ex: The Fall
+116 : Grisly庄园的秘密
+117 : Battleheart
+118 : MASS EFFECT INFILTRATOR
+119 : Minigore 2: Zombies
+120 : 僵尸危机3D 2：猎杀
+121 : Terraria
+122 : Super Crossfighter
+123 : Lucky Dragon
+124 : METAL SLUG 3
+125 : Audio Ninja
+126 : 鸭嘴兽泰瑞在哪里？
+127 : Flight Control
+128 : King of Opera - Multiplayer Party Game!
+129 : Can Knockdown 3
+130 : MONSTER HUNTER FREEDOM UNITE for iOS
+131 : 天黑请闭眼OL
+132 : 武士：勇者之路
+133 : Geometry Dash
+134 : 闪电战机
+135 : Weaphones: Firearms Simulator Volume 1
+136 : Bridge Constructor
+137 : 机器人大战-动作卡牌手游
+138 : 乐动DJMAX
+139 : Azkend
+140 : METAL SLUG 1
+141 : METAL SLUG X
+142 : Weaphones WW2: Firearms Simulator
+143 : Skulls of the Shogun
+144 : 中国跳棋
+145 : Brave furries
+146 : 美妙的记忆
+147 : Teenage Mutant Ninja Turtles: Rooftop Run
+148 : True Skate
+149 : Cut the Rope (割绳子)
+150 : Temple Run: 勇敢传说
+151 : 乐动达人
+152 : Machinarium
+153 : 恋舞OL 尊享版
+154 : 天兵公园 恶作剧大战
+155 : Mirror's Edge
+156 : 松饼骑士
+157 : KAMI
+158 : 终极塔防 Tower Defense
+159 : Ticket to Ride Pocket
+160 : Nimian Legends : BrightRidge
+161 : 《速度与激情5》：官方正式版游戏
+162 : STREET FIGHTER II COLLECTION
+163 : Dr. Panda 欢乐餐厅
+164 : Hunter & Monster
+165 : Tilt to Live 2: Redonkulous
+166 : Junk Jack X
+167 : 吹牛骰子-夜店游戏
+168 : 忍者跑酷
+169 : Fieldrunners
+170 : Turtle Logic
+171 : 行尸走肉：钢铁死神OL
+172 : Jacob Jones and the Bigfoot Mystery : Episode 2
+173 : 暴力街区
+174 : Cover Orange
+175 : Stylish Sprint
+176 : Riptide GP
+177 : 狂野之血
+178 : 三国艳义--豪华动漫卡牌游戏
+179 : 鬼泣4 refrain
+180 : Lep's World 2 Plus
+181 : 僵尸别动队
+182 : Monster Dash
+183 : Bongo Touch
+184 : Cover Orange 2: 伟大旅程
+185 : Year Walk
+186 : World of Goo HD
+187 : Tower of Fortune 2
+188 : GogoCafe
+189 : LEGO Friends
+190 : 疯狂填字
+191 : 邦妮早午餐2
+192 : F18 Carrier Landing II Pro
+193 : Real Racing 2
+194 : Bubble Bust!
+195 : Sky Gamblers: Storm Raiders
+196 : 料理妈妈 当季-食谱套装-
+197 : 宝宝学英文拼图游戏
+198 : MONOPOLY
+199 : Strata
+200 : 飞行棋

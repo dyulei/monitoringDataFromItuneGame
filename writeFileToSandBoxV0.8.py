@@ -15,9 +15,9 @@ def download(url_itune, url_kind):
 	try: 
 		html = urllib2.urlopen(r'%s' % url_itune)
 	except urllib2.URLError, e:
-		# print e.code
-		# if e.code != 200:
-		print '%s redownload!' % url_kind
+		print e.code
+		if e.code != 200:
+			print '%s redownload!' % url_kind
 		download(url_itune, url_kind)
 	except urllib2.ValueError:
 		download(url_itune, url_kind)

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/osc_dp/!svn/ver/148/idsdw/ldlog/web/webserver
+END
+business.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/osc_dp/!svn/ver/117/idsdw/ldlog/web/webserver/business.py
+END
+log_desc.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/osc_dp/!svn/ver/117/idsdw/ldlog/web/webserver/log_desc.py
+END
+log_file.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/osc_dp/!svn/ver/117/idsdw/ldlog/web/webserver/log_file.py
+END
+multipart.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/osc_dp/!svn/ver/148/idsdw/ldlog/web/webserver/multipart.py
+END
+machine.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/osc_dp/!svn/ver/117/idsdw/ldlog/web/webserver/machine.py
+END
+main.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/osc_dp/!svn/ver/148/idsdw/ldlog/web/webserver/main.py
+END
+conf.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/osc_dp/!svn/ver/117/idsdw/ldlog/web/webserver/conf.py
+END

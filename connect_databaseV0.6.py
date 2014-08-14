@@ -21,7 +21,7 @@ conn.set_character_set('utf8')
 
 str_time = time.strftime('%Y-%m-%d %T', time.localtime(time.time()))
 for i in range(1, 201):
-	html = open('/Users/Levi/github/monitoringDataFromItuneGame/2014-07-31Paid/%d.html' % i , 'r')
+	html = open('/Users/Levi/github/monitoringDataFromItuneGame/2014-08-01Free/%d.html' % i , 'r')
 	hjson = json.loads(html.read())
 	print i
 	print hjson['results'][0]['trackName']
@@ -55,14 +55,32 @@ for i in range(1, 201):
 		hjson_sellerUrl,str_time, str_time))
 
 
-	tb_category = ("insert into tb_category (category_id, category_name, created_at, updated_at) values ('%d', '%s', '%s','%s', '%s')" % (hjson['results'][0]['artistId'], conn.escape_string(hjson['results'][0]['artistName']), \
-		hjson_sellerUrl,str_time, str_time))
+	genres_count = 0
+	for genres_string in hjson['results'][0]['genres']:
+		genres_count+=1
 
 
-	# cur.execute(tb_company)
-	# cur.execute(tb_rank)
+	for genres_id in range(0, genres_count):
+		# print hjson['results'][0]['genres'][genres_id]
+		# print hjson['results'][0]['genreIds'][genres_id]
+		tb_category = ("insert into tb_category (category_id, category_name, created_at, updated_at) values ('%d', '%s','%s', '%s')" % (int(hjson['results'][0]['genreIds'][genres_id]), hjson['results'][0]['genres'][genres_id], \
+		str_time, str_time))
+
+		tb_app_category = ("insert into tb_app_category (app_id, category_id, created_at, updated_at) values ('%d', '%d','%s', '%s')" % (hjson['results'][0]['trackId'], int(hjson['results'][0]['genreIds'][genres_id]), \
+		str_time, str_time))
+
+		try: 
+			cur.execute(tb_category)
+			cur.execute(tb_app_category)
+		except MySQLdb.IntegrityError, e:
+			pass
+
+
+
+
+	cur.execute(tb_rank)
 	try: 
-		# cur.execute(tb_app)
+		cur.execute(tb_app)
 		cur.execute(tb_company)
 	except MySQLdb.IntegrityError, e:
 		pass

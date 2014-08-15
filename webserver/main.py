@@ -19,6 +19,7 @@ import conf
 import log_desc
 import log_file
 import timeLineV
+import timeLineH
 
 default_encoding = 'utf-8'
 if sys.getdefaultencoding() != default_encoding:
@@ -57,6 +58,10 @@ class MyHandler(SimpleHTTPRequestHandler):
 
             self.resp(json.dumps(timeLineV.get_timeLine(),  ensure_ascii = False))
             # f.close()
+        elif url_path == '/timeLineH':
+            self.resp(json.dumps(timeLineH.get_timeLine(),  ensure_ascii = False))
+        elif url_path.s
+
         else:
             return SimpleHTTPRequestHandler.do_GET(self)
 
@@ -107,7 +112,7 @@ class MyHandler(SimpleHTTPRequestHandler):
             self.path = '/domainList.html'
             self.do_GET()
 
-        elif req == '/dd':
+        elif req == '/asdf':
             # arg = json.loads(buf)
             # path = conf.data_path + "/meta.xml"
             # desc = log_desc.get_log_cat_detail(path, cat)

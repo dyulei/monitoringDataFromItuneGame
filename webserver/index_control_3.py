@@ -55,9 +55,9 @@ if(count > 1):
     listArr.append(lisDic)
 
 def cmp1(x, y):
-    if x[1] > y[1]:
+    if x[0] > y[0]:
         return 1
-    elif x[1] < y[1]:
+    elif x[0] < y[0]:
         return -1
     else: return 0
 

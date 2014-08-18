@@ -18,8 +18,9 @@ import os
 import conf
 import log_desc
 import log_file
-import timeLineV
-import timeLineH
+import index_control_1
+import index_control_2
+import index_control_3
 
 default_encoding = 'utf-8'
 if sys.getdefaultencoding() != default_encoding:
@@ -35,7 +36,6 @@ class MyHandler(SimpleHTTPRequestHandler):
         self.send_header('Content-Length', str(len(body.encode("utf-8"))))
         self.end_headers()
         self.wfile.write(body)
-
         self.wfile.close()
 
 
@@ -56,11 +56,13 @@ class MyHandler(SimpleHTTPRequestHandler):
             # self.end_headers()
             # self.copyfile(f, self.wfile)   
 
-            self.resp(json.dumps(timeLineV.get_timeLine(),  ensure_ascii = False))
+            self.resp(json.dumps(timeLineV.get_data(),  ensure_ascii = False))
             # f.close()
-        elif url_path == '/timeLineH':
-            self.resp(json.dumps(timeLineH.get_timeLine(),  ensure_ascii = False))
-        elif url_path.s
+        elif url_path == '/index_control_1':
+            self.resp(json.dumps(index_control_1.get_data(),  ensure_ascii = False))
+
+        elif url_path == '/index_control_3':
+            self.resp(json.dumps(index_control_3.get_data(),  ensure_ascii = False))
 
         else:
             return SimpleHTTPRequestHandler.do_GET(self)
@@ -94,6 +96,7 @@ class MyHandler(SimpleHTTPRequestHandler):
         elif req == "/get_log_cat":
             #arg = json.loads(buf)
 #           bizid = arg["bizid"]
+
             bizid = "cookierun"
             path = conf.data_path + "/" + bizid + "/meta.xml"            
             jstr = json.dumps(log_desc.get_log_cat(path),  ensure_ascii = False)
@@ -112,14 +115,18 @@ class MyHandler(SimpleHTTPRequestHandler):
             self.path = '/domainList.html'
             self.do_GET()
 
-        elif req == '/asdf':
-            # arg = json.loads(buf)
+        elif req == '/index_control_2':
+            arg = json.loads(buf)
+            date_string = arg['date']
             # path = conf.data_path + "/meta.xml"
             # desc = log_desc.get_log_cat_detail(path, cat)
             # data = log_file.get_log_by_cat(bizid, cat)
+
             self.send_response(200)
             self.send_header('Content-type', 'application/json')
-            self.resp(json.dumps({"desc": "dd", "data": "ee"},  ensure_ascii = False))
+            # self.resp(json.dumps({"desc": "dd", "data": bizid},  ensure_ascii = False))
+            return self.resp(json.dumps(index_control_2.get_data(date_string),  ensure_ascii = False))
+
 
 
             

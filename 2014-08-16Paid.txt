@@ -1,0 +1,201 @@
+The Paid Game Rank, int the date : 2014-08-16
+  1 : 剑魂之刃
+  2 : Plague Inc. (瘟疫公司)
+  3 : 地狱边境 (LIMBO)
+  4 : 奇幻射击
+  5 : Deemo
+  6 : Doodle Jump
+  7 : 现代战争5: 眩晕风暴
+  8 : 纪念碑谷
+  9 : Tiny Wings
+ 10 : Minecraft  Pocket Edition
+ 11 : Fruit Ninja
+ 12 : 口袋女友
+ 13 : 仙剑奇侠传1 DOS怀旧版
+ 14 : NBA 2K14
+ 15 : 植物大战僵尸
+ 16 : 一骑当千OL-三国群英手游版
+ 17 : 皇家骑士团（ ）最强互动策略战争手游
+ 18 : 宝石迷阵
+ 19 : 天兵公园 恶作剧大战
+ 20 : PopStar!消灭星星
+ 21 : Cytus
+ 22 : Birzzle Pandora
+ 23 : 刺客信条：海盗
+ 24 : Size DOES Matter
+ 25 : 俄罗斯方块（掌上机经典）
+ 26 : Oceanhorn 
+ 27 : 孤胆车神：维加斯
+ 28 : Kingdom Rush
+ 29 : THE KING OF FIGHTERS i 2012
+ 30 : 仙剑奇侠传5 - 剑傲丹枫
+ 31 : 猫射手
+ 32 : 战神之怒
+ 33 : Micromon
+ 34 : Shadow Blade
+ 35 : Kingdom Rush Frontiers
+ 36 : Temple Run:魔境仙踪
+ 37 : 狂斩三国
+ 38 : 航空公司大亨 3
+ 39 : THE KING OF FIGHTERS-i 002
+ 40 : Grisly庄园的秘密
+ 41 : 三国艳义--豪华动漫卡牌游戏
+ 42 : God of Light
+ 43 : NinJump Deluxe
+ 44 : 蓝龙岛
+ 45 : 单机三国志
+ 46 : 鳄鱼小顽皮爱洗澡
+ 47 : 炎龙骑士团2 怀旧版
+ 48 : FC 马路英雄（公路赛车 火箭车）
+ 49 : 极品飞车变速
+ 50 : THE KING OF FIGHTERS '97
+ 51 : 天兵斗魔鬼
+ 52 : Plants vs. Zombies
+ 53 : 轩辕剑参外传 天之痕
+ 54 : Rules!
+ 55 : 欧陆战争4: 拿破仑
+ 56 : 嚣张大冒险
+ 57 : Cut the Rope (割绳子)
+ 58 : Construction Simulator 2014
+ 59 : Red Ball 4
+ 60 : Threes!
+ 61 : 超凡蜘蛛侠2
+ 62 : Infinite Flight - 飞行模拟器
+ 63 : Chimpact 2 Family Tree
+ 64 : Angry Birds
+ 65 : 格斗之王-动作卡牌手游
+ 66 : A Dark Room
+ 67 : Real Steel
+ 68 : Abyss: 伊甸的幽灵 (Full)
+ 69 : 飞天小女警: 小镇村卫士
+ 70 : Angry Birds Seasons
+ 71 : 行尸走肉：钢铁死神OL
+ 72 : Ready Steady Bang
+ 73 : Doodle God (涂鸦上帝)
+ 74 : Infinity Blade III
+ 75 : Dokuro
+ 76 : Sprinkle Islands（超级救火队 2）
+ 77 : 大富翁 4 Fun
+ 78 : MASS EFFECT INFILTRATOR
+ 79 : LEGO Friends
+ 80 : Chop Chop Ninja
+ 81 : 极品飞车:热血追踪
+ 82 : Cafeteria Nipponica
+ 83 : 俄罗斯方块
+ 84 : The Lost City 失落之城
+ 85 : 雷曼：嘉年华
+ 86 : METAL SLUG 2
+ 87 : Battleheart
+ 88 : Joe Danger Infinity
+ 89 : Infinity Blade II
+ 90 : 乐动DJMAX
+ 91 : STREET FIGHTER IV
+ 92 : Survivalcraft
+ 93 : Rolando
+ 94 : King's League: Odyssey
+ 95 : Pako - Car Chase Simulator
+ 96 : MTN
+ 97 : MONSTER HUNTER FREEDOM UNITE for iOS
+ 98 : The Room Two
+ 99 : 符文大师
+100 : 里约热内卢：圣徒之城
+101 : 现代战争4：决战时刻
+102 : 消灭星星2
+103 : Godfire
+104 : 安城密室 3 (Antrim Escape 3 中文版)
+105 : 文明 变革
+106 : Farm Frenzy 3 (疯狂农场3)
+107 : 狂野飙车7：极速热力
+108 : 恋舞OL 尊享版
+109 : Dr. Panda 欢乐餐厅
+110 : 皇后成长计划2
+111 : Samurai II: Vengeance
+112 : 僵尸别动队
+113 : Sentinel 4: Dark Star
+114 : 隐秘的世界
+115 : Sprinkle: Water splashing fire fighting fun!
+116 : Fieldrunners 2
+117 : Weaphones: Firearms Simulator Volume 1
+118 : Bike Baron
+119 : The Sims 3 World Adventures
+120 : Ninja Village
+121 : Frontier Heroes  A Planet H game from HISTORY
+122 : 滑雪大冒险增强版
+123 : Jelly Defense
+124 : Battleheart Legacy
+125 : 被错过的天堂
+126 : 索尼克冲刺
+127 : Tilt to Live 2: Redonkulous
+128 : Pirate Legends TD
+129 : Zombieville USA 2
+130 : Bug Heroes 2
+131 : 终极真人快打 3
+132 : 航空公司大亨 Online
+133 : 割绳子玩穿越增强版
+134 : JoyJoy
+135 : Dark Frontier
+136 : Light Apprentice
+137 : Flight Control
+138 : Lucky Dragon
+139 : 天朝教育委员会
+140 : Bridge Constructor 中世纪
+141 : 鬼泣4 refrain
+142 : Tengami
+143 : AVP: Evolution
+144 : 轩辕剑外传 枫之舞 DOS怀旧版
+145 : IMPOSSIBLE ROAD
+146 : Ranch Rush 2
+147 : 吹牛骰子-夜店游戏
+148 : 爱的妇产科
+149 : 《被诅咒的船》珍藏版 (Full)
+150 : 闪电战机
+151 : Rocket Robo
+152 : 超凡蜘蛛侠
+153 : Terraria
+154 : Cover Orange 2: 伟大旅程
+155 : 钢琴达人
+156 : 打蚊子
+157 : Burger Queen
+158 : 城堡突
+159 : Angry Birds Space
+160 : MMA by EA SPORTS
+161 : 疯狂赛车手 2
+162 : Bubble Bust!
+163 : Ski Safari
+164 : Mirror's Edge
+165 : Toy Story: Smash It!
+166 : Monster Dash
+167 : Bongo Touch 2 HD
+168 : Monkey Preschool Lunchbox
+169 : Train Conductor 2: USA (火车指挥员2)
+170 : METAL SLUG 3
+171 : 松饼骑士
+172 : FINAL FANTASY VI
+173 : Hatchi - Retro Virtual Pet
+174 : iBomber Defense Pacific
+175 : 麻将茶馆 HD Mahjong Tea House
+176 : iBomber Defense
+177 : 乐乐的神秘岛拼图-儿童教育游戏
+178 : Offroad Legends
+179 : Ranch Rush
+180 : Football Manager Handheld 2014
+181 : Sentinel 2: Earth Defense
+182 : Monster Wars
+183 : Chop Chop Tennis
+184 : Touchgrind Skate 2
+185 : ARSoccer - Augmented Reality Soccer Game
+186 : SCRABBLE
+187 : BioDefense: Zombie Outbreak
+188 : 大笑江湖
+189 : Bounden
+190 : The Sushi Spinnery
+191 : 完美逃脱I
+192 : ChickenBreak
+193 : 拳皇咆哮
+194 : Minecraft Skin Studio - Minecraft（我的世界）官方人物设计制作工具！
+195 : World Explorer - Made for MineCraft
+196 : 菜鸟驾驶乐园－－模拟驾驶游戏
+197 : Alive 4-ever RETURNS
+198 : 斗兽棋
+199 : 滚吧，水果
+200 : Geometry Dash

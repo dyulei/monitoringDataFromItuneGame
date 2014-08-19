@@ -21,7 +21,7 @@ conn.set_character_set('utf8')
 
 str_time = time.strftime('%Y-%m-%d %T', time.localtime(time.time()))
 for i in range(1, 201):
-	html = open('/Users/Levi/github/monitoringDataFromItuneGame/2014-08-01Free/%d.html' % i , 'r')
+	html = open('/Users/Levi/github/monitoringDataFromItuneGame/2014-08-19Free/%d.html' % i , 'r')
 	hjson = json.loads(html.read())
 	print i
 	print hjson['results'][0]['trackName']

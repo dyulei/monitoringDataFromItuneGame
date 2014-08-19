@@ -26,6 +26,14 @@ default_encoding = 'utf-8'
 if sys.getdefaultencoding() != default_encoding:
     reload(sys)
     sys.setdefaultencoding(default_encoding)
+
+
+def parseGetUrl(values):
+# values = url.split('?')[-1]
+    e = {}
+    for key_value in values.split('&'):
+        e[key_value.split('=')[0]] = key_value.split('=')[1]
+    return e
  
 class MyHandler(SimpleHTTPRequestHandler):
     '''web logical handler, include static/dynamic request'''
@@ -39,10 +47,17 @@ class MyHandler(SimpleHTTPRequestHandler):
         self.wfile.close()
 
 
+
+
+
     def do_GET(self):
         req = self.path.split("?")
         url_path=req[0]
+
         if url_path == '/ee':
+            print req[1]
+            temdic = parseGetUrl(req[1])
+            print temdic
             # bizid = req[1].split("=")[1]
             # path = conf.data_path + "/" + "7.json"            
             # path = conf.data_path + "/" +  "meta.xml"
@@ -56,14 +71,30 @@ class MyHandler(SimpleHTTPRequestHandler):
             # self.end_headers()
             # self.copyfile(f, self.wfile)   
 
-            self.resp(json.dumps(timeLineV.get_data(),  ensure_ascii = False))
+            self.resp(json.dumps(index_control_1.get_data(),  ensure_ascii = False))
             # f.close()
         elif url_path == '/index_control_1':
-            self.resp(json.dumps(index_control_1.get_data(),  ensure_ascii = False))
+            arg = parseGetUrl(req[1])
+            startdate = arg['startdate']
+            overdate = arg['enddate']
+            print startdate
+            print overdate
+            self.resp(json.dumps(index_control_1.get_data(startdate, overdate),  ensure_ascii = False))
+
+        elif url_path == '/index_control_2':
+
+            arg = parseGetUrl(req[1])
+            date_string = arg['date']
+            print date_string
+            return self.resp(json.dumps(index_control_2.get_data(date_string),  ensure_ascii = False))
 
         elif url_path == '/index_control_3':
-            self.resp(json.dumps(index_control_3.get_data(),  ensure_ascii = False))
-
+            arg = parseGetUrl(req[1])
+            startdate = arg['startdate']
+            overdate = arg['enddate']
+            print startdate
+            print overdate
+            self.resp(json.dumps(index_control_3.get_data(startdate, overdate),  ensure_ascii = False))
         else:
             return SimpleHTTPRequestHandler.do_GET(self)
 
@@ -115,17 +146,17 @@ class MyHandler(SimpleHTTPRequestHandler):
             self.path = '/domainList.html'
             self.do_GET()
 
-        elif req == '/index_control_2':
-            arg = json.loads(buf)
-            date_string = arg['date']
-            # path = conf.data_path + "/meta.xml"
-            # desc = log_desc.get_log_cat_detail(path, cat)
-            # data = log_file.get_log_by_cat(bizid, cat)
+        # elif req == '/index_control_2':
+        #     arg = json.loads(buf)
+        #     date_string = arg['date']
+        #     # path = conf.data_path + "/meta.xml"
+        #     # desc = log_desc.get_log_cat_detail(path, cat)
+        #     # data = log_file.get_log_by_cat(bizid, cat)
 
-            self.send_response(200)
-            self.send_header('Content-type', 'application/json')
-            # self.resp(json.dumps({"desc": "dd", "data": bizid},  ensure_ascii = False))
-            return self.resp(json.dumps(index_control_2.get_data(date_string),  ensure_ascii = False))
+        #     self.send_response(200)
+        #     self.send_header('Content-type', 'application/json')
+        #     # self.resp(json.dumps({"desc": "dd", "data": bizid},  ensure_ascii = False))
+        #     return self.resp(json.dumps(index_control_2.get_data(date_string),  ensure_ascii = False))
 
 
 

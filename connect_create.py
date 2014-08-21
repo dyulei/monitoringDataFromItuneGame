@@ -62,6 +62,10 @@ def saveDataBase(create_time, appType, appTypeNum):
 			hjson_sellerUrl,create_time, str_time))
 
 
+		tb_version = ("insert into tb_version (app_id, version, created_at, updated_at) values ('%d', '%s','%s', '%s')" % (hjson['results'][0]['trackId'],hjson['results'][0]['version'],create_time, str_time))
+
+
+
 		genres_count = 0
 		for genres_string in hjson['results'][0]['genres']:
 			genres_count+=1
@@ -86,6 +90,10 @@ def saveDataBase(create_time, appType, appTypeNum):
 			except MySQLdb.IntegrityError, e:
 				pass
 
+		try: 
+			cur.execute(tb_version)
+		except MySQLdb.IntegrityError, e:
+			pass
 
 		cur.execute(tb_rank)
 		try: 
@@ -110,7 +118,7 @@ def saveDataBase(create_time, appType, appTypeNum):
 # 	print 'Grossing'
 # 	saveDataBase(create_time,'Grossing', 2)
 
-create_time = '2014-08-13'
+create_time = '2014-08-20'
 print 'Free'
 saveDataBase(create_time,'Free', 0)
 print 'Paid'

@@ -23,9 +23,22 @@ reload(sys)
 sys.setdefaultencoding('utf8')
 conn.set_character_set('utf8')
 
-def get_data(startdate, overdate):
+def get_data(startdate, enddate):
 
-    
+
+    try:
+        conn = MySQLdb.connect(host="121.201.10.15",
+                    user='eagleeye',
+                    passwd='EYeapp$ea@2',
+                    db="db_rankapp",
+                    port=30013)
+    except OperationalError, e:
+        print 'OperationalError...'
+        pass
+    cur = conn.cursor()
+    reload(sys)
+    sys.setdefaultencoding('utf8')
+    conn.set_character_set('utf8')
 
 
     tb_rank_orderby_releasetime = ("SELECT 月份, sum(上线数) AS '上线数', sum(top20) AS 'top20' \

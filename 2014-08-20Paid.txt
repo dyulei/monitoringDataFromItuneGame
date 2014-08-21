@@ -1,0 +1,201 @@
+The Paid Game Rank, int the date : 2014-08-20
+  1 : Plague Inc. (瘟疫公司)
+  2 : 奇幻射击
+  3 : 地狱边境 (LIMBO)
+  4 : 皇家骑士团（ ）最强互动策略战争手游
+  5 : Doodle Jump
+  6 : 现代战争5: 眩晕风暴
+  7 : Tiny Wings
+  8 : Minecraft  Pocket Edition
+  9 : 纪念碑谷
+ 10 : 战神之怒
+ 11 : NBA 2K14
+ 12 : PopStar!消灭星星
+ 13 : 植物大战僵尸
+ 14 : 仙剑奇侠传1 DOS怀旧版
+ 15 : Deemo
+ 16 : 宝石迷阵
+ 17 : THE KING OF FIGHTERS i 2012
+ 18 : 天兵公园 恶作剧大战
+ 19 : 俄罗斯方块（掌上机经典）
+ 20 : 一骑当千OL-三国群英手游版
+ 21 : 鳄鱼小顽皮爱洗澡
+ 22 : 仙剑奇侠传5 - 剑傲丹枫
+ 23 : Cytus
+ 24 : Birzzle Pandora
+ 25 : 口袋女友
+ 26 : Size DOES Matter
+ 27 : 极品飞车变速
+ 28 : 孤胆车神：维加斯
+ 29 : 狂斩三国2：最强单机动作手游RPG
+ 30 : 单机三国志
+ 31 : 俄罗斯方块
+ 32 : God of Light
+ 33 : Pako - Car Chase Simulator
+ 34 : 嚣张大冒险
+ 35 : Micromon
+ 36 : 澳门老虎机(澳门娱乐场最火拉霸游戏)
+ 37 : 果宝三国
+ 38 : 行尸走肉：钢铁死神OL
+ 39 : Kingdom Rush
+ 40 : Kingdom Rush Frontiers
+ 41 : 刺客信条：海盗
+ 42 : Threes!
+ 43 : 航空公司大亨 3
+ 44 : Fruit Ninja
+ 45 : Godfire
+ 46 : 猫射手
+ 47 : LINEZETA FRONTIER《泽塔机甲》
+ 48 : Infinite Flight - 飞行模拟器
+ 49 : Plants vs. Zombies
+ 50 : Dokuro
+ 51 : King's League: Odyssey
+ 52 : THE KING OF FIGHTERS-i 002
+ 53 : 轩辕剑参外传 天之痕
+ 54 : 蓝龙岛
+ 55 : 狂斩三国
+ 56 : Bridge Constructor 中世纪
+ 57 : Temple Run:魔境仙踪
+ 58 : Red Ball 4
+ 59 : 符文大师
+ 60 : THE KING OF FIGHTERS '97
+ 61 : 三国春秋传－古典策略战棋演绎
+ 62 : 消灭星星2
+ 63 : Sentinel 4: Dark Star
+ 64 : Grisly庄园的秘密
+ 65 : 索尼克冲刺
+ 66 : Oceanhorn 
+ 67 : 热血足球高校篇
+ 68 : 狂野飙车7：极速热力
+ 69 : F18 Carrier Landing II Pro
+ 70 : 欧陆战争4: 拿破仑
+ 71 : Angels In The Sky
+ 72 : 涂鸦跳跃
+ 73 : 菜鸟学开车: 模拟驾校(好玩的开车游戏,学车首选,可练习停车入位,倒库移库)
+ 74 : 超凡蜘蛛侠2
+ 75 : 恋舞OL邂逅爱 尊享版
+ 76 : Dr. Panda 欢乐餐厅
+ 77 : 乐高蝙蝠侠：DC超级英雄
+ 78 : 街头霸王 X 铁拳 手机版　
+ 79 : LEGO Friends
+ 80 : Angry Birds Seasons
+ 81 : Sky Gamblers: Cold War
+ 82 : 炎龙骑士团2 怀旧版
+ 83 : Battle Supremacy
+ 84 : Infinity Blade III
+ 85 : Cover Orange
+ 86 : Duet Game
+ 87 : 格斗之王-动作卡牌手游
+ 88 : 掌上三国无双
+ 89 : STREET FIGHTER II COLLECTION
+ 90 : Doodle God (涂鸦上帝)
+ 91 : 超凡蜘蛛侠
+ 92 : The Room Two
+ 93 : 僵尸别动队
+ 94 : Shadow Blade
+ 95 : 皇后成长计划2
+ 96 : Dark Frontier
+ 97 : 飞天小女警: 小镇村卫士
+ 98 : STREET FIGHTER IV VOLT
+ 99 : Construction Simulator 2014
+100 : Globlins
+101 : Hotel Dash Deluxe
+102 : 海上力量：无畏 for iPhone
+103 : Chimpact 2 Family Tree
+104 : 三国群殴传-群雄逐鹿
+105 : 鬼泣4 refrain
+106 : 隐秘的世界
+107 : 乐动达人
+108 : LEGO Marvel Super Heroes：宇宙危机
+109 : BADLAND
+110 : 天朝教育委员会
+111 : FC 马路英雄（公路赛车 火箭车）
+112 : MASS EFFECT INFILTRATOR
+113 : Sprinkle Islands（超级救火队 2）
+114 : THE KING OF FIGHTERS '98
+115 : Light Apprentice
+116 : Tengami
+117 : 三国艳义--豪华动漫卡牌游戏
+118 : 天黑请闭眼OL
+119 : 狂野飙车6- 火线追击
+120 : 种子1(SEED1)-黑暗的崛起
+121 : Joe Danger Infinity
+122 : Bad Piggies
+123 : The Lost City 失落之城
+124 : 吹牛骰子-夜店游戏
+125 : Tilt to Live
+126 : 天天羽毛球2
+127 : Need for Speed Most Wanted
+128 : Fieldrunners 2
+129 : Tilt to Live 2: Redonkulous
+130 : 疯狂填字
+131 : MTN
+132 : F18 Carrier Landing
+133 : 益智七巧板拼图123 - 儿童们的快乐学习识字卡
+134 : 围棋大师
+135 : Cooking Dash: Thrills and Spills Deluxe
+136 : R.B.I. Baseball 14
+137 : Castle Raid
+138 : Battleheart Legacy
+139 : Lost Souls: 失落灵魂 (Full)
+140 : 天兵斗魔鬼
+141 : 大富翁 4 Fun
+142 : 被错过的天堂
+143 : Year Walk
+144 : 宠物旅馆
+145 : 天天爱唱歌
+146 : Adventure Bar Story
+147 : 现代战争4：决战时刻
+148 : Sky Gamblers: Storm Raiders
+149 : Weaphones: Firearms Simulator Volume 1
+150 : The Sims 3
+151 : King of Opera - Multiplayer Party Game!
+152 : Strata
+153 : Angry Birds Space
+154 : UNO
+155 : Lep's World 2 Plus
+156 : 雷曼：嘉年华
+157 : EPOCH.
+158 : MONSTER HUNTER FREEDOM UNITE for iOS
+159 : 摇摇骰子 完美版
+160 : Great Little War Game HD
+161 : Block Fortress: War
+162 : Jacob Jones and the Bigfoot Mystery : Episode 1
+163 : 4 Elements II (Premium)
+164 : JoyJoy
+165 : Frontier Heroes  A Planet H game from HISTORY
+166 : 终极塔防 Tower Defense
+167 : The Sims 3 Ambitions
+168 : 七海
+169 : Diner Dash Deluxe
+170 : ACE COMBAT Xi Skies of Incursion
+171 : Minigore 2: Zombies
+172 : Riptide GP2
+173 : The Sims 3 World Adventures
+174 : Food Processing
+175 : 松饼骑士
+176 : Dungeon Raid
+177 : Slayin
+178 : Earn to Die
+179 : Block Fortress
+180 : 种子2 (SEED2) - 战争旋涡
+181 : Prince of Persia Classic
+182 : 倾斜迷宫
+183 : CHRONO TRIGGER
+184 : Mr Snoozleberg
+185 : METAL SLUG X
+186 : 生化战士HD
+187 : The Cave
+188 : DvO
+189 : Devious Dungeon
+190 : Ski Jumping Pro
+191 : 野人大作战
+192 : Darklings
+193 : 3D投篮机
+194 : Anthill
+195 : Earthworm Jim
+196 : Dungelot
+197 : Edge
+198 : 99 Bricks Wizard Academy
+199 : Streets of Rage 3
+200 : TurboFly HD

@@ -45,10 +45,9 @@ class MyHandler(SimpleHTTPRequestHandler):
         self.end_headers()
         self.wfile.write(body)
         self.wfile.close()
-
-
-
-
+        if not self.wfile.closed:
+        # self.wfile.close()
+            self.wfile.flush()
 
     def do_GET(self):
         req = self.path.split("?")

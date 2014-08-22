@@ -36,11 +36,20 @@ def saveDataBase(create_time, appType, appTypeNum):
 
 		if(hjson['results'][0].has_key('averageUserRating') == False):
 			hjson_averageUserRating = 0
-			hjson_userRatingCount = 0
-
 		else :
 			hjson_averageUserRating = hjson['results'][0]['averageUserRating']
+
+
+		if(hjson['results'][0].has_key('userRatingCount') == False):
+			hjson_userRatingCount = 0
+		else :
 			hjson_userRatingCount = hjson['results'][0]['userRatingCount']
+
+
+		if(hjson['results'][0].has_key('userRatingCountForCurrentVersion') == True):
+			hjson_userRatingCount = hjson['results'][0]['userRatingCountForCurrentVersion']
+
+
 
 		tb_app = ("insert into tb_app (app_id, app_name, author, app_Type, size, release_date, rom_type, description, icon_Url, trackViewUrl, download_url, \
 		filename, company_id, company_name, filemd5, star, created_at, updated_at, userRatingCount, bundleId, version, currency, price, channel_id) \
@@ -105,7 +114,6 @@ def saveDataBase(create_time, appType, appTypeNum):
 			cur.execute(tb_company)
 		except MySQLdb.IntegrityError, e:
 			pass
-		conn.commit()
 
 
 # for i in range(3, 18):
@@ -126,6 +134,7 @@ print 'Paid'
 saveDataBase(create_time,'Paid', 1)
 print 'Grossing'
 saveDataBase(create_time,'Grossing', 2)
+conn.commit()
 
 
 

@@ -30,24 +30,104 @@ def get_data():
     conn.set_character_set('utf8')
 
 
-    
-    tb_rank_orderby_releasetime = ("select * from db_rankapp.tb_rank t where t.created_at >= '2014-08-01' and t.created_at <= '2014-08-09' and t.rank_type = 1 order by app_id")
+
+    tb_rank_orderby_releasetime = ("select t.app_id, t.rank, t.created_at, a.app_name, a.icon_Url  from db_rankapp.tb_rank t, db_rankapp.tb_app a \
+        where t.app_id = a.app_id and t.created_at >= '2014-08-06' and t.created_at <= '2014-08-07' and t.rank_type = 1 order by app_id")
 
     cur.execute(tb_rank_orderby_releasetime)
     recs = cur.fetchall()
 
-    startDate = '2014-08-01'
-    endDate = '2014-08-09'
-    startLine = time.mktime(datetime.datetime(start[0:4],cc[1],cc[2],cc[3],cc[4],cc[5]).timetuple())
 
-    print rank[1]
 
+    startDate = datetime.datetime.strptime('2014-08-06', '%Y-%m-%d')
+    endDate = datetime.datetime.strptime('2014-08-07', '%Y-%m-%d')
+
+    print startDate, endDate
+
+    dd = endDate - startDate
+    diftime =  dd.days
+    print diftime
+
+
+    tmp_id = 'null'
+    maxValue = 0
+    minValue = 201
+    maxDate = minDate = startDate
+
+    preDate = endDate
     for rank in recs:
-        app_id = rank[1]
-        created_at = rank[4]
-        rank_num = rank[3]
+        app_id = rank[0]
+        created_at = datetime.datetime.strptime(str(rank[2])[0:10], '%Y-%m-%d')
+        rank_num = rank[1]
+
+        if(app_id != tmp_id):
+
+            if preDate != endDate:
+                maxValue = 201
+                maxDate = created_at
+
+            #
+            if maxValue != 0:
+                # print minDate, maxDate
+                # print minValue , maxValue
+                # print tmp_id
+                if (minDate - maxDate).days < 0:
+                    # print minDate, maxDate
+                    print tmp_id
+                    print maxValue - minValue
+                    
 
 
+            #
+            maxValue = 0
+            minValue = 201
+
+            if (created_at - startDate).days != 0:
+                maxValue = 201
+                maxDate = created_at
+
+            if rank_num <= minValue:
+                minValue = rank_num
+                minDate = created_at
+
+            if rank_num >= maxValue:
+                maxValue = rank_num
+                maxDate = created_at
+            tmp_id = app_id
+
+        else:
+            if (created_at - preDate).days != 1:
+                maxValue = 201
+                maxDate = created_at
+            
+            if rank_num <= minValue:
+                minValue = rank_num
+                minDate = created_at
+
+            if rank_num >= maxValue:
+                maxValue = rank_num
+                maxDate = created_at
+
+        preDate = created_at
+
+    if(app_id == tmp_id):
+        print minDate, maxDate
+        print minValue , maxValue
+        print tmp_id
+
+        # print rank_num
+        # print created_at
+        # print created_at[0:7]
+        # dd_time = time.strftime('%Y-%m-%d', created_at[0:10])
+
+        # dd_time = datetime.datetime.strptime(created_at[0:10], '%Y-%m-%d')
+        # print dd_time
+        # print created_at[0:10]
+        # d1 = datetime.datetime.strptime('2012-03-05 17:41:20', '%Y-%m-%d %H:%M:%S')
+        
+
+        # today = datetime.datetime(*time.localtime()[:6])
+    # t = datetime.timedelta(days = 2)
 
 
     #     lisDic = {}
@@ -65,17 +145,8 @@ def get_data():
     # data['data'] = {}
     # data['data']['total'] = total
     # data['data']['list'] = listArr
-    cc=[2014,8,3,0,0,0] 
-    c1 = time.mktime(datetime.datetime(cc[0],cc[1],cc[2],cc[3],cc[4],cc[5]).timetuple())
 
-    cc=[2014,8,4,0,0,0] 
-    c2 = time.mktime(datetime.datetime(cc[0],cc[1],cc[2],cc[3],cc[4],cc[5]).timetuple())
 
-    cc=[2014,8,5,0,0,0] 
-    c3 = time.mktime(datetime.datetime(cc[0],cc[1],cc[2],cc[3],cc[4],cc[5]).timetuple())
-
-    print c1 , c2, c3
-    print c2 - c1, c3 - c2
     return data
 
 if __name__ == "__main__":

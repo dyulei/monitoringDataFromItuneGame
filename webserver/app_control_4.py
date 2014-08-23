@@ -11,12 +11,6 @@ import json
 import urllib2
 import datetime
 
-def cmp1(x, y):
-    if x['num'] < y['num']:
-        return 1
-    elif x['num'] > y['num']:
-        return -1
-    else: return 0
 
 def get_data(start, end, app_type):
 
@@ -36,8 +30,8 @@ def get_data(start, end, app_type):
 
 
 
-    tb_rank_orderby_releasetime = ("select t.app_id, t.rank, t.created_at, a.app_name, a.icon_Url  from db_rankapp.tb_rank t, db_rankapp.tb_app a \
-        where t.app_id = a.app_id and t.created_at >= '%s' and t.created_at <= '%s' and t.rank_type = '%s' order by app_id" % (start, end, app_type))
+    tb_rank_orderby_releasetime = ("select t.app_id, t.rank, t.created_at from db_rankapp.tb_rank t \
+        where t.created_at >= '%s' and t.created_at <= '%s' and t.rank_type = '%s' order by app_id" % (start, end, app_type))
 
     cur.execute(tb_rank_orderby_releasetime)
     recs = cur.fetchall()
@@ -47,18 +41,12 @@ def get_data(start, end, app_type):
     startDate = datetime.datetime.strptime('%s' % start, '%Y-%m-%d')
     endDate = datetime.datetime.strptime('%s' % end, '%Y-%m-%d')
 
-    print startDate, endDate
-
-    dd = endDate - startDate
-    diftime =  dd.days
-    print diftime
-
 
     tmp_id = 'null'
     maxValue = 0
     minValue = 201
     maxDate = minDate = startDate
-
+    app_id_str = ""
     preDate = endDate
     listArr = []
     for rank in recs:
@@ -77,16 +65,9 @@ def get_data(start, end, app_type):
                 # print minDate, maxDate
                 # print minValue , maxValue
                 # print tmp_id
-                if (minDate - maxDate).days < 0:
-                    # print minDate, maxDate
+                if (minDate - maxDate).days > 0:
                     # print tmp_id
-                    # print maxValue - minValue
-                    lisDic = {}
-                    lisDic['app_id'] = tmp_id
-                    lisDic['text'] = rank[3]
-                    lisDic['icon'] = rank[4]
-                    lisDic['num'] = int(maxValue - minValue)
-                    listArr.append(lisDic)
+                    app_id_str += ',%s' % tmp_id
             #
             maxValue = 0
             minValue = 201
@@ -119,24 +100,36 @@ def get_data(start, end, app_type):
 
         preDate = created_at
 
-    if app_id == tmp_id and  (minDate - maxDate).days < 0:
+    if app_id == tmp_id and  (minDate - maxDate).days > 0:
         # if (minDate - maxDate).days < 0:
-        print tmp_id
-        print maxValue - minValue
-        lisDic = {}
-        lisDic['app_id'] = tmp_id
-        lisDic['text'] = rank[3]
-        lisDic['icon'] = rank[4]
-        lisDic['num'] = int(maxValue - minValue)
+        app_id_str += ',%s' % tmp_id
+        # print maxValue - minValue
+        # lisDic = {}
+        # lisDic['app_id'] = tmp_id
+        # lisDic['text'] = rank[3]
+        # lisDic['icon'] = rank[4]
+        # lisDic['num'] = int(maxValue - minValue)
+        # listArr.append(lisDic)
+
+    # print app_id_str[1:]
+    tb_rank_category_id = ("select t.category_id, c.category_name,count(1) num from (select * from tb_app_category group by category_id,app_id) t, \
+        tb_category c where t.app_id in (%s) and t.category_id >= 7000 and c.category_id = t.category_id group by c.category_name" % app_id_str[1:])
+
+    cur.execute(tb_rank_category_id)
+    recs = cur.fetchall()
+    for dlist in recs:
+        lisDic = []
+        lisDic.append(dlist[1])
+        lisDic.append(dlist[2])
         listArr.append(lisDic)
 
 
-
     data = {}
-    listArr.sort(cmp=cmp1)
     data['status'] = 0
     data['message'] = 'success'
     data['data'] = {}
+    data['data']['columns'] = ["category_name", "num"]
+    data['data']['alias'] = {}
     data['data']['list'] = listArr
 
 

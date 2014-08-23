@@ -21,6 +21,12 @@ import log_file
 import index_control_1
 import index_control_2
 import index_control_3
+import app_control_1
+import app_control_2
+import app_control_3
+import app_control_4
+
+
 
 default_encoding = 'utf-8'
 if sys.getdefaultencoding() != default_encoding:
@@ -94,6 +100,58 @@ class MyHandler(SimpleHTTPRequestHandler):
             print startdate
             print overdate
             self.resp(json.dumps(index_control_3.get_data(startdate, overdate),  ensure_ascii = False))
+
+        elif url_path == '/app_control_1':
+            arg = parseGetUrl(req[1])
+            startdate = arg['startdate']
+            overdate = arg['enddate']
+            itype = arg['itype']
+            print startdate
+            print overdate
+            if startdate != overdate:
+                self.resp(json.dumps(app_control_1.get_data(startdate, overdate, itype),  ensure_ascii = False))
+            else: 
+                return self.resp(json.dumps( {"status": 0,"message": "success","data": { "list": []}} ,  ensure_ascii = False))
+
+        elif url_path == '/app_control_2':
+            arg = parseGetUrl(req[1])
+            startdate = arg['startdate']
+            overdate = arg['enddate']
+            itype = arg['itype']
+            print startdate
+            print overdate
+            if startdate != overdate:
+                self.resp(json.dumps(app_control_2.get_data(startdate, overdate, itype),  ensure_ascii = False))
+            else: 
+                return self.resp(json.dumps( {"status": 0,"message": "success","data": { "list": []}} ,  ensure_ascii = False))
+
+        elif url_path == '/app_control_3':
+            arg = parseGetUrl(req[1])
+            startdate = arg['startdate']
+            overdate = arg['enddate']
+            itype = arg['itype']
+            print startdate
+            print overdate
+            if startdate != overdate:
+                self.resp(json.dumps(app_control_3.get_data(startdate, overdate, itype),  ensure_ascii = False))
+            else: 
+                return self.resp(json.dumps( {"status": 0,"message": "success","data": { "list": []}} ,  ensure_ascii = False))
+
+        elif url_path == '/app_control_4':
+            arg = parseGetUrl(req[1])
+            startdate = arg['startdate']
+            overdate = arg['enddate']
+            itype = arg['itype']
+            print startdate
+            print overdate
+            if startdate != overdate:
+                self.resp(json.dumps(app_control_4.get_data(startdate, overdate, itype),  ensure_ascii = False))
+            else: 
+                return self.resp(json.dumps( {"status": 0,"message": "success","data": { "list": []}} ,  ensure_ascii = False))
+
+
+
+
         else:
             return SimpleHTTPRequestHandler.do_GET(self)
 

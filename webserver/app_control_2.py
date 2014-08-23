@@ -77,7 +77,7 @@ def get_data(start, end, app_type):
                 # print minDate, maxDate
                 # print minValue , maxValue
                 # print tmp_id
-                if (minDate - maxDate).days < 0:
+                if (minDate - maxDate).days > 0:
                     # print minDate, maxDate
                     # print tmp_id
                     # print maxValue - minValue
@@ -119,7 +119,7 @@ def get_data(start, end, app_type):
 
         preDate = created_at
 
-    if app_id == tmp_id and  (minDate - maxDate).days < 0:
+    if app_id == tmp_id and  (minDate - maxDate).days > 0:
         # if (minDate - maxDate).days < 0:
         print tmp_id
         print maxValue - minValue
